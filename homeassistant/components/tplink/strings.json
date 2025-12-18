@@ -272,8 +272,26 @@
       "on_since": {
         "name": "On since"
       },
+      "power_usage_past30": {
+        "name": "Power usage past 30 days"
+      },
+      "power_usage_past7": {
+        "name": "Power usage past 7 days"
+      },
+      "power_usage_today": {
+        "name": "Power usage today"
+      },
       "report_interval": {
         "name": "Report interval"
+      },
+      "saved_power_past30": {
+        "name": "Saved power past 30 days"
+      },
+      "saved_power_past7": {
+        "name": "Saved power past 7 days"
+      },
+      "saved_power_today": {
+        "name": "Saved power today"
       },
       "sensor_remaining": {
         "name": "Sensor remaining"
@@ -292,6 +310,15 @@
       },
       "ssid": {
         "name": "SSID"
+      },
+      "time_usage_past30": {
+        "name": "Time usage past 30 days"
+      },
+      "time_usage_past7": {
+        "name": "Time usage past 7 days"
+      },
+      "time_usage_today": {
+        "name": "Time usage today"
       },
       "total_clean_area": {
         "name": "Total cleaning area"
